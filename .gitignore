@@ -3,4 +3,13 @@
 /datasets
 /Facial_Keypoint_Recognition/__pycache__
 /Semantic_Segmentation/__pycache__
+
+/Facial_Keypoint_Recognition/.ipynb_checkpoints
+/Semantic_Segmentation/.ipynb_checkpoints
+
+/Sentiment_Analysis/rnn2.py
+/Sentiment_Analysis/test.py
+
+/Sentiment_Analysis/__pycache__
+/Sentiment_Analysis/.ipynb_checkpoints
 # /Facial_Keypoint_Recognition/nn.py
