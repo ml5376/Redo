@@ -1,0 +1,6 @@
+#relative path 
+
+/datasets
+/Facial_Keypoint_Recognition/__pycache__
+/Semantic_Segmentation/__pycache__
+# /Facial_Keypoint_Recognition/nn.py
