@@ -3,8 +3,6 @@
 the content of this repository comprised of:
 
 1. semantic segmentation
-   -  CNN + transfer learning 
-   -  Unet
 2. facial key points recognition with CNN
 3. sentiment analysis with lstm
 
@@ -12,9 +10,9 @@ the content of this repository comprised of:
 
 
 ### Used Dataset 
-1.MSRC-v2 Segmentation Dataset
-2.Kaggle facial keypoints detection datasets
-3.IMDb sentiment analysis datase
+1. MSRC-v2 Segmentation Dataset
+2. Kaggle facial keypoints detection datasets
+3. IMDb sentiment analysis datase
  download url is provided in code
 
  
