@@ -62,17 +62,12 @@ class KeypointModel(nn.Module):
         )
 
     def forward(self, x):
-
-        # x = self.conv1(x)
-       
-        # print(x.shape)
-        # print(torchsummary.summary(self.model,x.shape))
         
         x = self.model(x) 
-        # x = x.view(-1).unsqueeze(0)
+       
     
         x = x.view(x.size(0), -1) 
-        # print(x.shape)
+       
         y=self.fc(x)
 
 
